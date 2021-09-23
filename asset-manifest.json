@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/BookmarkPage/static/css/main.e0c9599f.chunk.css",
+    "main.css": "/BookmarkPage/static/css/main.f98712b7.chunk.css",
     "main.js": "/BookmarkPage/static/js/main.5aac1dea.chunk.js",
     "main.js.map": "/BookmarkPage/static/js/main.5aac1dea.chunk.js.map",
     "runtime-main.js": "/BookmarkPage/static/js/runtime-main.21d1cb94.js",
@@ -8,14 +8,14 @@
     "static/js/2.33ecb585.chunk.js": "/BookmarkPage/static/js/2.33ecb585.chunk.js",
     "static/js/2.33ecb585.chunk.js.map": "/BookmarkPage/static/js/2.33ecb585.chunk.js.map",
     "index.html": "/BookmarkPage/index.html",
-    "precache-manifest.1d4fc8cbeca75cddabb13a6b10f8acc2.js": "/BookmarkPage/precache-manifest.1d4fc8cbeca75cddabb13a6b10f8acc2.js",
+    "precache-manifest.4bcab29a51a5cdcaa8fd2e96abfc141f.js": "/BookmarkPage/precache-manifest.4bcab29a51a5cdcaa8fd2e96abfc141f.js",
     "service-worker.js": "/BookmarkPage/service-worker.js",
-    "static/css/main.e0c9599f.chunk.css.map": "/BookmarkPage/static/css/main.e0c9599f.chunk.css.map"
+    "static/css/main.f98712b7.chunk.css.map": "/BookmarkPage/static/css/main.f98712b7.chunk.css.map"
   },
   "entrypoints": [
     "static/js/runtime-main.21d1cb94.js",
     "static/js/2.33ecb585.chunk.js",
-    "static/css/main.e0c9599f.chunk.css",
+    "static/css/main.f98712b7.chunk.css",
     "static/js/main.5aac1dea.chunk.js"
   ]
 }
